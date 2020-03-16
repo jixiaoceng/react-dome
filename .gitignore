@@ -1,0 +1,34 @@
+#gitignore
+# Logs
+logs
+*.log
+
+# Dependency directory
+# Commenting this out is preferred by some people, see
+# https://npmjs.org/doc/faq.html#Should-I-check-my-node_modules-folder-into-git
+node_modules
+
+# dependencies
+/node_modules
+
+# production
+/dist
+
+
+# idea
+/.idea
+
+# css
+# /src/**/*.css
+# /src/**/*.css.map
+
+npm-debug.log*
+
+# 排除 .DS_Store文件
+.DS_Store
+
+#排除历史文件
+/.history
+
+# 排除 .vscode文件
+/.vscode

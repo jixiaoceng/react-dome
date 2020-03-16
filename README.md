@@ -1,2 +1,8 @@
-# react-dome
-react项目搭建
+
+react-dome 项目创建dome
+
+### `npm install`
+
+### `npm start`
+
+### `npm run build`
